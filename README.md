@@ -1,3 +1,3 @@
 # statCheck-server
 
-https://young-crag-3092.herokuapp.com/
+https://gentle-basin-8178.herokuapp.com/
